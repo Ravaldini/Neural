@@ -4,3 +4,10 @@ C:\Users\User\Documents\GitHub\Neural\Neural\bin\Debug\Neural.pdb
 C:\Users\User\Documents\GitHub\Neural\Neural\obj\Debug\Neural.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\GitHub\Neural\Neural\obj\Debug\Neural.exe
 C:\Users\User\Documents\GitHub\Neural\Neural\obj\Debug\Neural.pdb
+C:\Users\patrick\Documents\GitHub\Neural\Neural\bin\Debug\Neural.exe.config
+C:\Users\patrick\Documents\GitHub\Neural\Neural\bin\Debug\Neural.exe
+C:\Users\patrick\Documents\GitHub\Neural\Neural\bin\Debug\Neural.pdb
+C:\Users\patrick\Documents\GitHub\Neural\Neural\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\GitHub\Neural\Neural\obj\Debug\Neural.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Documents\GitHub\Neural\Neural\obj\Debug\Neural.exe
+C:\Users\patrick\Documents\GitHub\Neural\Neural\obj\Debug\Neural.pdb
